@@ -1,0 +1,14 @@
+{
+  "paired_ttest": {
+    "comparison": "T1=63_T2=3_a=0.95_ACS vs Full-DRMV",
+    "t_stat": -0.9782762221995637,
+    "p_value": 0.8351626452431882,
+    "significant_at_05": false
+  },
+  "bootstrap_sharpe": {
+    "comparison": "T1=63_T2=3_a=0.95_ACS vs Full-DRMV",
+    "delta_obs": -0.17391928539000517,
+    "p_value": 0.491,
+    "significant_at_05": false
+  }
+}
